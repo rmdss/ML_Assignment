@@ -1,2 +1,2 @@
 # ML_Assignment
-Image classifier for MNIST dataset.
+This project is based on implementation of image classifier for MNIST dataset using Keras API.
