@@ -1,2 +1,2 @@
 # ML_Assignment
-Image classifier for MINIST dataset.
+Image classifier for MNIST dataset.
